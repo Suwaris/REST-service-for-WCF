@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoRestService.props" />
+</Project>
